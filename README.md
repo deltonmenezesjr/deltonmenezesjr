@@ -23,13 +23,12 @@ Specialized in **enterprise storage administration**, **virtualization technolog
 - 🎓 **Bachelor’s Degree in Information Systems**  
 - 📖 **Bachelor’s Degree in Software Engineering** *(in progress)*  
 ---
-## 🌍 Open To
-- Global job opportunities  
+## 🌍 Open To 
 - Collaborative open-source projects  
 - Consulting and enterprise IT solutions  
 ---
 ## 📫 Contact
-- 📧 **Email:** deltonmenezesjr@gmail.com  
+- 📧 deltonmenezesjr@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/deltonmenezes)  
 - 🐙 [GitHub](https://github.com/deltonmenezesjr)
 
