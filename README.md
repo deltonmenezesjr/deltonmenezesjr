@@ -1,6 +1,6 @@
 # 💻 Delton Augusto Menezes Junior
 
-**Infrastructure, Storage & Virtualization Specialist | VMware**  
+**Infrastructure, Storage & Virtualization Specialist | SAN | VMware **  
 🎓 B.Sc. in Information Systems | 📚 B.Sc. in Software Engineering (in progress - UNICID)  
 
 ---
