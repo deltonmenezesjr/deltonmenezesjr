@@ -29,7 +29,7 @@ Specialized in **enterprise storage administration**, **virtualization technolog
 - Consulting and enterprise IT solutions  
 ---
 ## 📫 Contact
-- 📧 **Email:** seu.email@exemplo.com  
+- 📧 **Email:** deltonmenezesjr@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/deltonmenezes)  
 - 🐙 [GitHub](https://github.com/deltonmenezesjr)
 
